@@ -1,3 +1,7 @@
-.container{
+h2,h1{
     text-align: center;
+}
+
+body{
+    background: url("hero-bg.jpg");
 }
